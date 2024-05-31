@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Improve Coral Edge TPU guide (#8160)
